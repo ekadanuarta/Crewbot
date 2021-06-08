@@ -14,3 +14,9 @@
 # Developer 
 [`Denis`](https://github.com/decode-denpa) 
 
+# Donate 
+* <a href="https://saweria.co/donate/Denisputra"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+
+* <a href="https://saweria.co/donate/Ekadanuarta"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+
+  
