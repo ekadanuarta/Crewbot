@@ -9,7 +9,11 @@
 
 [*✆ Contact Denis*](https://chat.whatsapp.com/IOVK5UkKVS31Ad1205zeaX)
 
-[*✆ Contact Eka*](https://chat.whatsapp.com/6288221400832)
+[*✆ Contact Eka*](https://chat.whatsapp.com/IOVK5UkKVS31Ad1205zeaX)
+
+[*✆ Contact Fajar*](https://chat.whatsapp.com/IOVK5UkKVS31Ad1205zeaX)
+
+
 
 # Developer 
 [`Denis`](https://github.com/decode-denpa) 
